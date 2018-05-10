@@ -1,0 +1,36 @@
+# Uncrustify-0.66.1-491-aea2e224
+code_width                      = 139
+ls_func_split_full              = true
+ls_code_width                   = true
+# option(s) with 'not default' value: 3
+#
+# -=====-
+# Line              Tag           Parent          Columns Br/Lvl/pp     Flag   Nl  Text
+#   1>             TYPE[      FUNC_PROTO][  1/  1/  5/  0][0/0/0][     70000][0-0] void
+#   1>       FUNC_PROTO[            NONE][  6/  6/ 12/  1][0/0/0][         0][0-0]      update
+#   1>      FPAREN_OPEN[      FUNC_PROTO][ 12/ 12/ 13/  0][0/0/0][ 100000000][0-0]            (
+#   1>             TYPE[            NONE][ 13/ 13/ 18/  0][0/1/0][    450008][0-0]             float
+#   1>             WORD[            NONE][ 19/ 19/ 33/  1][0/1/0][    800008][0-0]                   aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][ 33/ 33/ 34/  0][0/1/0][ 100000008][0-0]                                 ,
+#   1>             TYPE[            NONE][ 35/ 35/ 40/  1][0/1/0][    450008][0-0]                                   float
+#   1>             WORD[            NONE][ 41/ 41/ 55/  1][0/1/0][    800008][0-0]                                         aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][ 55/ 55/ 56/  0][0/1/0][ 100000008][0-0]                                                       ,
+#   1>             TYPE[            NONE][ 57/ 57/ 62/  1][0/1/0][    450008][0-0]                                                         float
+#   1>             WORD[            NONE][ 63/ 63/ 77/  1][0/1/0][    800008][0-0]                                                               aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][ 77/ 77/ 78/  0][0/1/0][ 100000008][0-0]                                                                             ,
+#   1>             TYPE[            NONE][ 79/ 79/ 84/  1][0/1/0][    450008][0-0]                                                                               float
+#   1>             WORD[            NONE][ 85/ 85/ 99/  1][0/1/0][    800008][0-0]                                                                                     aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][ 99/ 99/100/  0][0/1/0][ 100000008][0-0]                                                                                                   ,
+#   1>             TYPE[            NONE][101/101/106/  1][0/1/0][    450008][0-0]                                                                                                     float
+#   1>             WORD[            NONE][107/107/121/  1][0/1/0][    800008][0-0]                                                                                                           aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][121/121/122/  0][0/1/0][ 100000008][0-0]                                                                                                                         ,
+#   1>             TYPE[            NONE][123/123/128/  1][0/1/0][    450008][0-0]                                                                                                                           float
+#   1>          NEWLINE[            NONE][123/128/  0/  0][0/1/0][         8][1-0]
+#   1>             WORD[            NONE][ 13/129/143/  1][0/1/0][    800008][0-0]             aaaaaaaaaaaaaa
+#   1>            COMMA[            NONE][ 27/143/144/  0][0/1/0][ 100000008][0-0]                           ,
+#   1>             TYPE[            NONE][ 29/145/150/  1][0/1/0][    450008][0-0]                             float
+#   1>             WORD[            NONE][ 35/151/165/  1][0/1/0][    800008][0-0]                                   aaaaaaaaaaaaaa
+#   1>     FPAREN_CLOSE[      FUNC_PROTO][ 49/165/166/  0][0/0/0][ 100000000][0-0]                                                 )
+#   1>        SEMICOLON[      FUNC_PROTO][ 50/166/167/  0][0/0/0][ 100000000][0-0]                                                  ;
+#   1>          NEWLINE[            NONE][ 51/167/  1/  0][0/0/0][         0][1-0]
+# -=====-
